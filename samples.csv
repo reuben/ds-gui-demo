@@ -1,0 +1,16 @@
+wav_path,transcription,source,extra_text,color
+samples/librispeech/6432-63723-0003.wav,no i wasn't thinking of that,librispeech-test-other,,#5575C6
+samples/librispeech/4350-9170-0001.wav,this is absolutely incorrect,librispeech-test-other,,#5575C6
+samples/librispeech/8555-284447-0000.wav,then he rushed down stairs into the courtyard shouting loudly for his soldiers and threatening to patch everybody in his dominions if the sailorman was not recaptured,librispeech-test-clean,,#5575C6
+samples/librispeech/4507-16021-0047.wav,yesterday you were trembling for a health that is dear to you to day you fear for your own to morrow it will be anxiety about money the day after to morrow the diatribe of a slanderer the day after that the misfortune of some friend then the prevailing weather then something that has been broken or lost then a pleasure with which your conscience and your vertebral column reproach you again the course of public affairs,librispeech-test-clean,,#5575C6
+samples/librispeech/1089-134686-0022.wav,how comes it that while the first beatitude promises the kingdom of heaven to the poor of heart the second beatitude promises also to the meek that they shall possess the land,librispeech-test-other,,#5575C6
+samples/ted/BillGates_2010-15.861-19.986.wav,i 'm going to talk today about energy and climate,ted-test,,#C64146
+samples/ted/RobertGupta_2010U-220.01-233.015.wav,and in a miracle he lifted his own violin and he started playing by ear certain snippets of violin concertos which he then asked me to complete mendelssohn tchaikovsky sibelius,ted-test,,#C64146
+samples/ted/EricMead_2009P-18.434-31.66.wav,for some time i have been interested in the placebo effect which might seem like an odd thing for a magician to be interested in unless you think of it in the terms that i do which is something fake,ted-test,,#C64146
+samples/commonvoice/common_voice_1.wav,down below in the darkness were hundreds of people sleeping in peace,common voice,,#BBBBBB
+samples/commonvoice/common_voice_2.wav,among these people were a couple of cyclists a gardener I employed sometimes and a girl carrying a baby,common voice,,#BBBBBB
+samples/fisher/fe_03_01639-419.98-421.79.wav,are you near chicago,fisher-test,,#7CC65F
+samples/fisher/fe_03_01687-47.52-49.53.wav,i i i would be incorrect,fisher-test,,#7CC65F
+samples/fisher/fe_03_01651-34.44-36.39.wav,i totally agree with you,fisher-test,,#7CC65F
+samples/fisher/fe_03_03901-217.68-221.75.wav,because they they have some real funny stuff they have some real funny stuff online,fisher-test,,#7CC65F
+samples/fisher/fe_03_01642-588.02-599.89.wav,and i and i'm just thinking about you know all the homeless people i see in the street and like not all are veterans but some of them are and i'm just like thinking like you know you ones who are what eighteen like you've probably seen things that you know no one at ho,fisher-test,,#7CC65F
