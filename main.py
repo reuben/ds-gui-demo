@@ -10,6 +10,7 @@ import textwrap
 import time
 import tempfile
 import wave
+from scipy.io import wavfile as wav
 
 from deepspeech.model import Model
 from queue import Queue
